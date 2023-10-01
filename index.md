@@ -18,7 +18,7 @@ I took part in this challenge, using various ML techniques including: (i) image 
 
 ### Analysing and predicting apartment rental price in Ukrainian cities
 
-Looking at the apartment rental market in Ukraine I wondered what are the key factors which impact rental prices. Does the location matter? Is the kitchen area impactful? What factors truly impacts rental price and can it be modelled? To improve my understanding, I came up with this project. In this project, I scraped rental data from [www.olx.ua](www.olx.ua) for five major Ukrainian cities to investigate key factors that impact rental prices
+Looking at the apartment rental market in Ukraine I wondered what are the key factors which impact rental prices. Does the location matter? Is the kitchen area impactful? What factors truly impacts rental price and can it be modelled? To improve my understanding, I came up with this project. In this project, I scraped rental data from [www.olx.ua](https://www.olx.ua) for five major Ukrainian cities to investigate key factors that impact rental prices
 
 ![Apts by price](/images/Area_price.png)
 
