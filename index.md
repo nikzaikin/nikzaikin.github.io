@@ -2,7 +2,13 @@
 
 ---
 
-### project 1 (Yoga)
+### Yoga poses classification competition
+
+The Yoga poses competition was a predictive modelling challenge by Google in 2023. In the challenge, participants were tasked with predicting yoga pose for 756 pictures based on a small labled dataset.
+
+I took part in this challenge, using various ML techniques including: (i) image augmentation, (ii) transfer learning with Sception, DenseNet and EfficientNet, (iii) model ensambling, and (iv) generalization techniques such as drop-outs, weight decay and learning rate scheduler.
+
+![Xception metrics](/images/kaggle_yoga_xception.png)
 
 [View code on Kaggle](https://www.kaggle.com/learonic/yoga-poses-clasification-with-transfer-learning)
 
