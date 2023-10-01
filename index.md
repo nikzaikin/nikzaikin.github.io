@@ -4,9 +4,9 @@
 
 ### Yoga poses classification competition
 
-The Yoga poses competition was a predictive modelling challenge by Google in 2023. In the challenge, participants were tasked with predicting yoga pose for 756 pictures based on a small labled dataset.
+The Yoga poses competition was a predictive modeling challenge by Google in 2023. In the challenge, participants were tasked with predicting yoga pose for 756 pictures based on a small labeled dataset.
 
-I took part in this challenge, using various ML techniques including: (i) image augmentation, (ii) transfer learning with Sception, DenseNet and EfficientNet, (iii) model ensambling, and (iv) generalization techniques such as drop-outs, weight decay and learning rate scheduler.
+I took part in this challenge, using various ML techniques including: (i) image augmentation, (ii) transfer learning with Sception, DenseNet and EfficientNet, (iii) model ensembling, and (iv) generalization techniques such as drop-outs, weight decay and learning rate scheduler
 
 ![Xception metrics](/images/kaggle_yoga_xception.png)
 
@@ -18,7 +18,7 @@ I took part in this challenge, using various ML techniques including: (i) image 
 
 ### Analysing and predicting apartment rental price in Ukrainian cities
 
-Looking at the apartment rental market in Ukraine I wondered what are the key factors which impact rental prices. Does the location matter? Is the kitchen area impactful? What factors truly impacts rental price and can it be modelled? To improve my understanding, I came up with this project. In this project, I scraped rental data from [www.olx.ua](https://www.olx.ua) for five major Ukrainian cities to investigate key factors that impact rental prices
+Looking at the apartment rental market in Ukraine I wondered what are the key factors which impact rental prices. Does the location matter? Is the kitchen area impactful? What factors truly impact rental prices and can they be modeled? To improve my understanding, I came up with this project. In this project, I scraped rental data from [www.olx.ua](https://www.olx.ua) for five major Ukrainian cities to investigate key factors that impact rental prices
 
 ![Apts by price](/images/Area_price.png)
 
